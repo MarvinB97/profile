@@ -1,12 +1,10 @@
 # About me:
 * Software developer with experience in Pytorch, ReacJs and PHP about FrontEnd development.  
 * With over 3 years of experience as a professional developer.  
-* Expertise in Python for web scraping, data analysis, and data visualization.  
-* Currently self-studying data engineering, focusing on big data tools, ETL processes, and cloud technologies.  
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpyusun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/juanpyusun](https://www.linkedin.com/in/m-b-nu%C3%B1ez-zu%C3%B1iga/))
 <br/>
 <br/>
 
